@@ -84,7 +84,7 @@ main h1 span{
     background-image: linear-gradient(rgb(136,0,248),#22223d,rgb(136,0,248));
 }
 .ma{
-    background-image: linear-gradient(#22223d,rgb(136,0,248));
+    background-image: linear-gradient(rgb(136,0,248),#22223d);
 }
 main p span{
     color:rgb(227, 204, 247);
