@@ -86,3 +86,6 @@ main h1 span{
 .ma{
     background-image: linear-gradient(#22223d,rgb(136,0,248));
 }
+main p span{
+    color:rgb(227, 204, 247);
+}
