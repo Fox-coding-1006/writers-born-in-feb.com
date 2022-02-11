@@ -79,3 +79,7 @@ main h1 span{
     font-family: century gothic;
 
 }
+.main{
+    width: 100%;
+    background-image: linear-gradient(rgb(136,0,248),#22223d);
+}
