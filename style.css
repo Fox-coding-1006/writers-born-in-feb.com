@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background:#22223d;
+    background-image: linear-gradient(rgb(136, 0, 255),#22223d);
 }
 nav{
     margin-top: 0;
@@ -72,7 +72,7 @@ main p{
     text-align: center;
     font-family: Colonna MT;
     font-size: 30px;
-    color:#22223d;
+    color:rgb(227, 204, 247);
 }
 main h1 span{
     color:rgb(227, 204, 247);
@@ -81,10 +81,11 @@ main h1 span{
 }
 .main{
     width: 100%;
-    background-image: linear-gradient(rgb(136,0,248),#22223d,rgb(136,0,248));
+    background-image: transparent;
 }
 .ma{
-    background-image: linear-gradient(rgb(136,0,248),#22223d);
+    background-image: transparent;
+    color: rgb(227, 204, 247);
 }
 main p span{
     color:rgb(227, 204, 247);
